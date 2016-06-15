@@ -1,2 +1,2 @@
 # hello-world
-Frist git code
+First git code
